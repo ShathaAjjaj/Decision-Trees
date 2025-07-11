@@ -6,7 +6,13 @@ This project uses a Decision Tree to predict whether a tumor is malignant or ben
 
 ## 🧠 Model Explanation
 
-Decision Trees split data by feature thresholds to build a tree-like model. It’s easy to interpret and visualize.
+A Decision Tree is a model used in machine learning that helps a computer make decisions. It's like a flowchart or a series of questions that lead to a final answer or decision.
+
+Think of it like 20 Questions — each question you ask helps you get closer to the correct answer.
+
+🎯 Goal of a Decision Tree
+
+To predict something (like whether an email is spam or not, or whether a person will buy a product) by asking questions based on the data.
 
 ## ✅ Benefits
 
